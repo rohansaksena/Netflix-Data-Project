@@ -12,7 +12,7 @@ This is a basic data analysis projects containing some data analysis and visuali
 ```
 netflix_df.head()
 ```
-### Previewing the last 5 entries of our dataset
+### Previewin the last 5 entries of our dataset
 ```
 netflix_df.tail()
 ```
