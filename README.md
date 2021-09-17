@@ -1,6 +1,6 @@
 # Netflix Dataset 
 
-This is a basic data analysis projects containing some data analysis and visualisation . Here , a dataset of Netflix Movies and TV Shows is present which contain fields of "Show_Id", "Category", "Title", "Director", "Cast", "Country", "Release_Date", "Rating", "Duration",        "Type", "Description"   
+This is a basic data analysis projects containing some data analysis and visualisation . Here , a dataset of Netflix Movies and TV Shows is present which contain fields of "Show_Id", "Category", "Title", "Director", "Cast", "Country", "Release_Date", "Rating", "Duration",        "Type", "Description"  . This Dataset is present in a csv file which we will read using the pandas dataframe.
 
 ## Data Source : - Kaggle
 
